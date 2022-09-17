@@ -1,11 +1,20 @@
 Edwin (Tianyi) Zhang. Link to EP Repo: https://github.com/Edwinz28/ECE444-F2022-EP
 
-![screenshot of adding readme.md](./add_readme.PNG)
+# Activity 1
+![screenshot of adding readme.md](./images/add_readme.PNG)
 
-![screenshot of merging develop branch](./merging_develop.PNG)
+# Activity 2
+![screenshot of merging develop branch](./images/merging_develop.PNG)
 
-![screenshot of merging activity 3](./successful_merge.PNG)
+# Activity 3
+![screenshot of merging activity 3](./images/successful_merge.PNG)
 
-![screenshot of rebasing feature to develop](./rebase_feature_to_develop.PNG)
+# Activity 7
+![screenshot of rebasing feature to develop](./images/rebase_feature_to_develop.PNG)
 
-![screenshot of new ep title](./new_ep_title.PNG)
+![screenshot of new ep title](./images/new_ep_title.PNG)
+
+# Activity 8
+![screenshot of new ep title](./images/add_tab_rebase.PNG)
+
+![screenshot of new ep title](./images/new_page.PNG)
